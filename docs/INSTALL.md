@@ -293,5 +293,6 @@ At this point, choose one of the following guides to complete your installation:
 
 - [Raspberry Pi Installation Guide](RPI-INSTALL-GUIDE.md) - For setting up skies-adsb on a new or existing ADS-B receiver
 - [Localhost Setup Guide](LOCALHOST-SETUP-GUIDE.md) - For running skies-adsb locally without modifying your ADS-B receiver
+- [Localhost Docker Guide](LOCALHOST-DOCKER_GUIDE.md) - For running skies-adsb locally as part of an existing docker setup as described in [LINK NEEDED](#) 
 
 Select the guide that matches your intended setup.
